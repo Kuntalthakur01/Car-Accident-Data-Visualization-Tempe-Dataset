@@ -1,7 +1,7 @@
 
 
 
-# Crime Data Visualization for Tempe, AZ
+# Car Accident Data Visualization – Tempe Dataset  
 
 <img width="916" alt="Screenshot 2024-10-11 at 11 45 12 PM" src="https://github.com/user-attachments/assets/334d1895-8b87-4652-855b-3043c52e36f9">
 
